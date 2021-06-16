@@ -1,0 +1,24 @@
+.wrap{
+  & a{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+}
+.del_margin_left{
+  & a{
+    &:first-child{
+      margin-left: 0;
+    }
+  }
+}
+.del_margin_right{
+  & a{
+    &:last-child{
+      margin-right: 0;
+    }
+  }
+}

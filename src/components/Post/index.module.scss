@@ -1,0 +1,16 @@
+.wrap{
+  background: #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: .2s;
+  &:hover{
+    background: #eee;
+  }
+}
+.top{
+  border-bottom: 1px solid #aaa;
+}
+.bottom{
+  font-size: 10px;
+}
