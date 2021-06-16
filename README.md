@@ -1,3 +1,5 @@
+# НЕ ЗАБЫВАЕМ ЗАПОЛНЯТЬ ЭТОТ ФАЙЛ - ЕСЛИ ПРИЛОЖЕНИЕ ДОЛЖНО ЗАПУСКАТЬСЯ С КАКИМ-ТО СТОРОНИМ СЕРВИСОМ!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
